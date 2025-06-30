@@ -1,0 +1,8 @@
+baseURL: https://mbasanta.github.io/
+languageCode: en-us
+title: NE3U Ham Radio
+theme: ananke
+
+caches:
+  images:
+    dir: :cacheDir/images
