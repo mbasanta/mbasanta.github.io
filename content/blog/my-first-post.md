@@ -1,6 +1,6 @@
 +++
 title = "My First Post"
-data = 2025-06-30T13:44:00-05:00
+date = 2025-06-30T13:44:00-05:00
 draft = false
 +++
 
