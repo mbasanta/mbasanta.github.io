@@ -15,9 +15,16 @@ menu:
     - name: Blog
       url: "blog/"
       weight: 2
+    - name: Balloon Flights
+      url: "flights/"
+      weight: 3
     - name: Contact
       url: "contact/"
-      weight: 3
+      weight: 4
+
+params:
+  description: "A website built through Hugo and blogdown."
+  footer: "&copy; Matthew Basanta {Year} | [Github](https://github.com/mbasanta) | [QRZ](https://qrz.com/db/NE3U)"
 
 caches:
   images:

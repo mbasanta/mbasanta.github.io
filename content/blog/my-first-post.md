@@ -1,8 +1,7 @@
-+++
-title = "My First Post"
-date = 2025-06-30T13:44:00-05:00
-draft = false
-+++
+---
+title: My First Post
+date: 2025-06-30T13:44:00-05:00
+---
 
 ## Introduction
 

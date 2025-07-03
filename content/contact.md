@@ -1,10 +1,8 @@
-+++
-title = "Contact"
-date = 2025-07-01T10:23:00-05:00
-draft = false
-+++
+---
+title: Contact
+author: NE3U
+---
 
 ## Contact Me
 
-EMail
-QRZ
+[QRZ](https://www.qrz.com/db/NE3U)
